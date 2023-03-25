@@ -1,0 +1,10 @@
+# Compiled output
+/dist
+/tmp
+/out-tsc
+
+#node
+/node_modules
+
+# build
+/dist

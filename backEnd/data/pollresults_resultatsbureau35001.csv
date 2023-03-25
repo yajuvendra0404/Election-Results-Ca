@@ -1,0 +1,1066 @@
+Electoral_District,Electoral_District_Name,Polling_Station_Number,Polling_Station_Name,Electors_for_Polling_Station,Candidate_Family_Name,Candidate_Middle_Name,Candidate_First_Name,Political_Affiliation_Name_English,Incumbent_Indicator,Elected_Candidate_Indicator,Candidate_Poll_Votes_Count
+35001,Ajax,1,Ajax,503,Alexander,,Chris,Conservative,Y,N,99
+35001,Ajax,1,Ajax,503,Brown,,Stephanie,NDP-New Democratic Party,N,N,10
+35001,Ajax,1,Ajax,503,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,1,Ajax,503,Holland,,Mark,Liberal,N,Y,100
+35001,Ajax,1,Ajax,503,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,2,Ajax,406,Alexander,,Chris,Conservative,Y,N,86
+35001,Ajax,2,Ajax,406,Brown,,Stephanie,NDP-New Democratic Party,N,N,13
+35001,Ajax,2,Ajax,406,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,2,Ajax,406,Holland,,Mark,Liberal,N,Y,113
+35001,Ajax,2,Ajax,406,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,3,Ajax,497,Alexander,,Chris,Conservative,Y,N,68
+35001,Ajax,3,Ajax,497,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,3,Ajax,497,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,3,Ajax,497,Holland,,Mark,Liberal,N,Y,159
+35001,Ajax,3,Ajax,497,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 4A,Ajax,366,Alexander,,Chris,Conservative,Y,N,42
+35001,Ajax, 4A,Ajax,366,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax, 4A,Ajax,366,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax, 4A,Ajax,366,Holland,,Mark,Liberal,N,Y,108
+35001,Ajax, 4A,Ajax,366,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 4B,Ajax,325,Alexander,,Chris,Conservative,Y,N,29
+35001,Ajax, 4B,Ajax,325,Brown,,Stephanie,NDP-New Democratic Party,N,N,10
+35001,Ajax, 4B,Ajax,325,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax, 4B,Ajax,325,Holland,,Mark,Liberal,N,Y,129
+35001,Ajax, 4B,Ajax,325,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,5,Ajax,450,Alexander,,Chris,Conservative,Y,N,67
+35001,Ajax,5,Ajax,450,Brown,,Stephanie,NDP-New Democratic Party,N,N,21
+35001,Ajax,5,Ajax,450,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,5,Ajax,450,Holland,,Mark,Liberal,N,Y,149
+35001,Ajax,5,Ajax,450,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,6,Ajax,409,Alexander,,Chris,Conservative,Y,N,85
+35001,Ajax,6,Ajax,409,Brown,,Stephanie,NDP-New Democratic Party,N,N,5
+35001,Ajax,6,Ajax,409,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,6,Ajax,409,Holland,,Mark,Liberal,N,Y,109
+35001,Ajax,6,Ajax,409,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,7,Ajax,480,Alexander,,Chris,Conservative,Y,N,67
+35001,Ajax,7,Ajax,480,Brown,,Stephanie,NDP-New Democratic Party,N,N,27
+35001,Ajax,7,Ajax,480,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,7,Ajax,480,Holland,,Mark,Liberal,N,Y,146
+35001,Ajax,7,Ajax,480,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,8,Ajax,512,Alexander,,Chris,Conservative,Y,N,52
+35001,Ajax,8,Ajax,512,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,8,Ajax,512,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,8,Ajax,512,Holland,,Mark,Liberal,N,Y,177
+35001,Ajax,8,Ajax,512,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,9,Ajax,462,Alexander,,Chris,Conservative,Y,N,70
+35001,Ajax,9,Ajax,462,Brown,,Stephanie,NDP-New Democratic Party,N,N,16
+35001,Ajax,9,Ajax,462,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,9,Ajax,462,Holland,,Mark,Liberal,N,Y,160
+35001,Ajax,9,Ajax,462,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,10,Ajax,456,Alexander,,Chris,Conservative,Y,N,57
+35001,Ajax,10,Ajax,456,Brown,,Stephanie,NDP-New Democratic Party,N,N,13
+35001,Ajax,10,Ajax,456,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,10,Ajax,456,Holland,,Mark,Liberal,N,Y,149
+35001,Ajax,10,Ajax,456,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,11,Ajax,487,Alexander,,Chris,Conservative,Y,N,76
+35001,Ajax,11,Ajax,487,Brown,,Stephanie,NDP-New Democratic Party,N,N,21
+35001,Ajax,11,Ajax,487,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,11,Ajax,487,Holland,,Mark,Liberal,N,Y,165
+35001,Ajax,11,Ajax,487,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,12,Ajax,540,Alexander,,Chris,Conservative,Y,N,64
+35001,Ajax,12,Ajax,540,Brown,,Stephanie,NDP-New Democratic Party,N,N,22
+35001,Ajax,12,Ajax,540,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,12,Ajax,540,Holland,,Mark,Liberal,N,Y,175
+35001,Ajax,12,Ajax,540,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 13A,Ajax,286,Alexander,,Chris,Conservative,Y,N,41
+35001,Ajax, 13A,Ajax,286,Brown,,Stephanie,NDP-New Democratic Party,N,N,10
+35001,Ajax, 13A,Ajax,286,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax, 13A,Ajax,286,Holland,,Mark,Liberal,N,Y,92
+35001,Ajax, 13A,Ajax,286,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 13B,Ajax,276,Alexander,,Chris,Conservative,Y,N,45
+35001,Ajax, 13B,Ajax,276,Brown,,Stephanie,NDP-New Democratic Party,N,N,11
+35001,Ajax, 13B,Ajax,276,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax, 13B,Ajax,276,Holland,,Mark,Liberal,N,Y,84
+35001,Ajax, 13B,Ajax,276,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,14,Ajax,481,Alexander,,Chris,Conservative,Y,N,60
+35001,Ajax,14,Ajax,481,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,14,Ajax,481,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,14,Ajax,481,Holland,,Mark,Liberal,N,Y,143
+35001,Ajax,14,Ajax,481,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,15,Ajax,429,Alexander,,Chris,Conservative,Y,N,78
+35001,Ajax,15,Ajax,429,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,15,Ajax,429,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,15,Ajax,429,Holland,,Mark,Liberal,N,Y,139
+35001,Ajax,15,Ajax,429,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,16,Ajax,501,Alexander,,Chris,Conservative,Y,N,74
+35001,Ajax,16,Ajax,501,Brown,,Stephanie,NDP-New Democratic Party,N,N,11
+35001,Ajax,16,Ajax,501,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,16,Ajax,501,Holland,,Mark,Liberal,N,Y,123
+35001,Ajax,16,Ajax,501,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,17,Ajax,552,Alexander,,Chris,Conservative,Y,N,69
+35001,Ajax,17,Ajax,552,Brown,,Stephanie,NDP-New Democratic Party,N,N,12
+35001,Ajax,17,Ajax,552,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,17,Ajax,552,Holland,,Mark,Liberal,N,Y,178
+35001,Ajax,17,Ajax,552,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,18,Ajax,499,Alexander,,Chris,Conservative,Y,N,47
+35001,Ajax,18,Ajax,499,Brown,,Stephanie,NDP-New Democratic Party,N,N,16
+35001,Ajax,18,Ajax,499,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,18,Ajax,499,Holland,,Mark,Liberal,N,Y,133
+35001,Ajax,18,Ajax,499,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,19,Ajax,436,Alexander,,Chris,Conservative,Y,N,63
+35001,Ajax,19,Ajax,436,Brown,,Stephanie,NDP-New Democratic Party,N,N,7
+35001,Ajax,19,Ajax,436,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,19,Ajax,436,Holland,,Mark,Liberal,N,Y,107
+35001,Ajax,19,Ajax,436,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,20,Ajax,430,Alexander,,Chris,Conservative,Y,N,45
+35001,Ajax,20,Ajax,430,Brown,,Stephanie,NDP-New Democratic Party,N,N,9
+35001,Ajax,20,Ajax,430,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,20,Ajax,430,Holland,,Mark,Liberal,N,Y,143
+35001,Ajax,20,Ajax,430,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,21,Ajax,396,Alexander,,Chris,Conservative,Y,N,60
+35001,Ajax,21,Ajax,396,Brown,,Stephanie,NDP-New Democratic Party,N,N,17
+35001,Ajax,21,Ajax,396,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,21,Ajax,396,Holland,,Mark,Liberal,N,Y,113
+35001,Ajax,21,Ajax,396,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 22A,Ajax,378,Alexander,,Chris,Conservative,Y,N,46
+35001,Ajax, 22A,Ajax,378,Brown,,Stephanie,NDP-New Democratic Party,N,N,17
+35001,Ajax, 22A,Ajax,378,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax, 22A,Ajax,378,Holland,,Mark,Liberal,N,Y,128
+35001,Ajax, 22A,Ajax,378,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 22B,Ajax,365,Alexander,,Chris,Conservative,Y,N,55
+35001,Ajax, 22B,Ajax,365,Brown,,Stephanie,NDP-New Democratic Party,N,N,13
+35001,Ajax, 22B,Ajax,365,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax, 22B,Ajax,365,Holland,,Mark,Liberal,N,Y,95
+35001,Ajax, 22B,Ajax,365,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,23,Ajax,429,Alexander,,Chris,Conservative,Y,N,81
+35001,Ajax,23,Ajax,429,Brown,,Stephanie,NDP-New Democratic Party,N,N,20
+35001,Ajax,23,Ajax,429,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,23,Ajax,429,Holland,,Mark,Liberal,N,Y,123
+35001,Ajax,23,Ajax,429,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,24,Ajax,482,Alexander,,Chris,Conservative,Y,N,82
+35001,Ajax,24,Ajax,482,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,24,Ajax,482,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,24,Ajax,482,Holland,,Mark,Liberal,N,Y,143
+35001,Ajax,24,Ajax,482,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,25,Ajax,503,Alexander,,Chris,Conservative,Y,N,53
+35001,Ajax,25,Ajax,503,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,25,Ajax,503,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,25,Ajax,503,Holland,,Mark,Liberal,N,Y,154
+35001,Ajax,25,Ajax,503,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,26,Ajax,481,Alexander,,Chris,Conservative,Y,N,62
+35001,Ajax,26,Ajax,481,Brown,,Stephanie,NDP-New Democratic Party,N,N,16
+35001,Ajax,26,Ajax,481,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,26,Ajax,481,Holland,,Mark,Liberal,N,Y,124
+35001,Ajax,26,Ajax,481,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,27,Ajax,559,Alexander,,Chris,Conservative,Y,N,55
+35001,Ajax,27,Ajax,559,Brown,,Stephanie,NDP-New Democratic Party,N,N,26
+35001,Ajax,27,Ajax,559,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,27,Ajax,559,Holland,,Mark,Liberal,N,Y,127
+35001,Ajax,27,Ajax,559,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 28A,Ajax,345,Alexander,,Chris,Conservative,Y,N,42
+35001,Ajax, 28A,Ajax,345,Brown,,Stephanie,NDP-New Democratic Party,N,N,10
+35001,Ajax, 28A,Ajax,345,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax, 28A,Ajax,345,Holland,,Mark,Liberal,N,Y,111
+35001,Ajax, 28A,Ajax,345,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 28B,Ajax,326,Alexander,,Chris,Conservative,Y,N,36
+35001,Ajax, 28B,Ajax,326,Brown,,Stephanie,NDP-New Democratic Party,N,N,6
+35001,Ajax, 28B,Ajax,326,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax, 28B,Ajax,326,Holland,,Mark,Liberal,N,Y,83
+35001,Ajax, 28B,Ajax,326,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,29,Ajax,488,Alexander,,Chris,Conservative,Y,N,71
+35001,Ajax,29,Ajax,488,Brown,,Stephanie,NDP-New Democratic Party,N,N,13
+35001,Ajax,29,Ajax,488,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,29,Ajax,488,Holland,,Mark,Liberal,N,Y,143
+35001,Ajax,29,Ajax,488,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,30,Ajax,540,Alexander,,Chris,Conservative,Y,N,72
+35001,Ajax,30,Ajax,540,Brown,,Stephanie,NDP-New Democratic Party,N,N,9
+35001,Ajax,30,Ajax,540,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,30,Ajax,540,Holland,,Mark,Liberal,N,Y,184
+35001,Ajax,30,Ajax,540,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,31,Ajax,399,Alexander,,Chris,Conservative,Y,N,66
+35001,Ajax,31,Ajax,399,Brown,,Stephanie,NDP-New Democratic Party,N,N,9
+35001,Ajax,31,Ajax,399,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,31,Ajax,399,Holland,,Mark,Liberal,N,Y,89
+35001,Ajax,31,Ajax,399,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,32,Ajax,445,Alexander,,Chris,Conservative,Y,N,86
+35001,Ajax,32,Ajax,445,Brown,,Stephanie,NDP-New Democratic Party,N,N,20
+35001,Ajax,32,Ajax,445,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,32,Ajax,445,Holland,,Mark,Liberal,N,Y,133
+35001,Ajax,32,Ajax,445,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,33,Ajax,491,Alexander,,Chris,Conservative,Y,N,106
+35001,Ajax,33,Ajax,491,Brown,,Stephanie,NDP-New Democratic Party,N,N,31
+35001,Ajax,33,Ajax,491,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,33,Ajax,491,Holland,,Mark,Liberal,N,Y,127
+35001,Ajax,33,Ajax,491,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,34,Ajax,428,Alexander,,Chris,Conservative,Y,N,73
+35001,Ajax,34,Ajax,428,Brown,,Stephanie,NDP-New Democratic Party,N,N,24
+35001,Ajax,34,Ajax,428,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,34,Ajax,428,Holland,,Mark,Liberal,N,Y,93
+35001,Ajax,34,Ajax,428,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,35,Ajax,384,Alexander,,Chris,Conservative,Y,N,60
+35001,Ajax,35,Ajax,384,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,35,Ajax,384,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,35,Ajax,384,Holland,,Mark,Liberal,N,Y,108
+35001,Ajax,35,Ajax,384,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,36,Ajax,451,Alexander,,Chris,Conservative,Y,N,44
+35001,Ajax,36,Ajax,451,Brown,,Stephanie,NDP-New Democratic Party,N,N,29
+35001,Ajax,36,Ajax,451,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,36,Ajax,451,Holland,,Mark,Liberal,N,Y,128
+35001,Ajax,36,Ajax,451,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,37,Ajax,387,Alexander,,Chris,Conservative,Y,N,50
+35001,Ajax,37,Ajax,387,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,37,Ajax,387,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,37,Ajax,387,Holland,,Mark,Liberal,N,Y,123
+35001,Ajax,37,Ajax,387,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,38,Ajax,360,Alexander,,Chris,Conservative,Y,N,58
+35001,Ajax,38,Ajax,360,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,38,Ajax,360,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,38,Ajax,360,Holland,,Mark,Liberal,N,Y,99
+35001,Ajax,38,Ajax,360,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,39,Ajax,369,Alexander,,Chris,Conservative,Y,N,67
+35001,Ajax,39,Ajax,369,Brown,,Stephanie,NDP-New Democratic Party,N,N,8
+35001,Ajax,39,Ajax,369,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,39,Ajax,369,Holland,,Mark,Liberal,N,Y,123
+35001,Ajax,39,Ajax,369,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,40,Ajax,390,Alexander,,Chris,Conservative,Y,N,40
+35001,Ajax,40,Ajax,390,Brown,,Stephanie,NDP-New Democratic Party,N,N,12
+35001,Ajax,40,Ajax,390,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,40,Ajax,390,Holland,,Mark,Liberal,N,Y,100
+35001,Ajax,40,Ajax,390,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,41,Ajax,339,Alexander,,Chris,Conservative,Y,N,35
+35001,Ajax,41,Ajax,339,Brown,,Stephanie,NDP-New Democratic Party,N,N,11
+35001,Ajax,41,Ajax,339,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,41,Ajax,339,Holland,,Mark,Liberal,N,Y,93
+35001,Ajax,41,Ajax,339,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,42,Ajax,424,Alexander,,Chris,Conservative,Y,N,78
+35001,Ajax,42,Ajax,424,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,42,Ajax,424,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,42,Ajax,424,Holland,,Mark,Liberal,N,Y,117
+35001,Ajax,42,Ajax,424,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,43,Ajax,370,Alexander,,Chris,Conservative,Y,N,50
+35001,Ajax,43,Ajax,370,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,43,Ajax,370,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,43,Ajax,370,Holland,,Mark,Liberal,N,Y,127
+35001,Ajax,43,Ajax,370,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,44,Ajax,384,Alexander,,Chris,Conservative,Y,N,69
+35001,Ajax,44,Ajax,384,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,44,Ajax,384,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,44,Ajax,384,Holland,,Mark,Liberal,N,Y,114
+35001,Ajax,44,Ajax,384,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,45,Ajax,538,Alexander,,Chris,Conservative,Y,N,49
+35001,Ajax,45,Ajax,538,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,45,Ajax,538,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,45,Ajax,538,Holland,,Mark,Liberal,N,Y,160
+35001,Ajax,45,Ajax,538,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,46,Ajax,520,Alexander,,Chris,Conservative,Y,N,74
+35001,Ajax,46,Ajax,520,Brown,,Stephanie,NDP-New Democratic Party,N,N,22
+35001,Ajax,46,Ajax,520,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,46,Ajax,520,Holland,,Mark,Liberal,N,Y,144
+35001,Ajax,46,Ajax,520,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,47,Ajax,399,Alexander,,Chris,Conservative,Y,N,71
+35001,Ajax,47,Ajax,399,Brown,,Stephanie,NDP-New Democratic Party,N,N,29
+35001,Ajax,47,Ajax,399,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,47,Ajax,399,Holland,,Mark,Liberal,N,Y,106
+35001,Ajax,47,Ajax,399,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,48,Ajax,419,Alexander,,Chris,Conservative,Y,N,61
+35001,Ajax,48,Ajax,419,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,48,Ajax,419,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,48,Ajax,419,Holland,,Mark,Liberal,N,Y,123
+35001,Ajax,48,Ajax,419,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,49,Ajax,527,Alexander,,Chris,Conservative,Y,N,64
+35001,Ajax,49,Ajax,527,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,49,Ajax,527,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,49,Ajax,527,Holland,,Mark,Liberal,N,Y,169
+35001,Ajax,49,Ajax,527,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,50,Ajax,440,Alexander,,Chris,Conservative,Y,N,61
+35001,Ajax,50,Ajax,440,Brown,,Stephanie,NDP-New Democratic Party,N,N,8
+35001,Ajax,50,Ajax,440,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,50,Ajax,440,Holland,,Mark,Liberal,N,Y,162
+35001,Ajax,50,Ajax,440,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,51,Ajax,430,Alexander,,Chris,Conservative,Y,N,81
+35001,Ajax,51,Ajax,430,Brown,,Stephanie,NDP-New Democratic Party,N,N,7
+35001,Ajax,51,Ajax,430,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,51,Ajax,430,Holland,,Mark,Liberal,N,Y,127
+35001,Ajax,51,Ajax,430,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,52,Ajax,424,Alexander,,Chris,Conservative,Y,N,44
+35001,Ajax,52,Ajax,424,Brown,,Stephanie,NDP-New Democratic Party,N,N,4
+35001,Ajax,52,Ajax,424,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,52,Ajax,424,Holland,,Mark,Liberal,N,Y,159
+35001,Ajax,52,Ajax,424,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,53,Ajax,414,Alexander,,Chris,Conservative,Y,N,52
+35001,Ajax,53,Ajax,414,Brown,,Stephanie,NDP-New Democratic Party,N,N,12
+35001,Ajax,53,Ajax,414,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,53,Ajax,414,Holland,,Mark,Liberal,N,Y,153
+35001,Ajax,53,Ajax,414,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,54,Ajax,529,Alexander,,Chris,Conservative,Y,N,94
+35001,Ajax,54,Ajax,529,Brown,,Stephanie,NDP-New Democratic Party,N,N,11
+35001,Ajax,54,Ajax,529,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,54,Ajax,529,Holland,,Mark,Liberal,N,Y,155
+35001,Ajax,54,Ajax,529,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,55,Ajax,525,Alexander,,Chris,Conservative,Y,N,73
+35001,Ajax,55,Ajax,525,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,55,Ajax,525,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,55,Ajax,525,Holland,,Mark,Liberal,N,Y,157
+35001,Ajax,55,Ajax,525,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,56,Ajax,452,Alexander,,Chris,Conservative,Y,N,66
+35001,Ajax,56,Ajax,452,Brown,,Stephanie,NDP-New Democratic Party,N,N,16
+35001,Ajax,56,Ajax,452,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,56,Ajax,452,Holland,,Mark,Liberal,N,Y,150
+35001,Ajax,56,Ajax,452,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,57,Ajax,368,Alexander,,Chris,Conservative,Y,N,57
+35001,Ajax,57,Ajax,368,Brown,,Stephanie,NDP-New Democratic Party,N,N,9
+35001,Ajax,57,Ajax,368,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,57,Ajax,368,Holland,,Mark,Liberal,N,Y,118
+35001,Ajax,57,Ajax,368,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,58,Ajax,452,Alexander,,Chris,Conservative,Y,N,82
+35001,Ajax,58,Ajax,452,Brown,,Stephanie,NDP-New Democratic Party,N,N,5
+35001,Ajax,58,Ajax,452,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,58,Ajax,452,Holland,,Mark,Liberal,N,Y,117
+35001,Ajax,58,Ajax,452,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,59,Ajax,512,Alexander,,Chris,Conservative,Y,N,84
+35001,Ajax,59,Ajax,512,Brown,,Stephanie,NDP-New Democratic Party,N,N,17
+35001,Ajax,59,Ajax,512,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,59,Ajax,512,Holland,,Mark,Liberal,N,Y,141
+35001,Ajax,59,Ajax,512,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,60,Ajax,457,Alexander,,Chris,Conservative,Y,N,55
+35001,Ajax,60,Ajax,457,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,60,Ajax,457,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,60,Ajax,457,Holland,,Mark,Liberal,N,Y,145
+35001,Ajax,60,Ajax,457,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,61,Ajax,509,Alexander,,Chris,Conservative,Y,N,53
+35001,Ajax,61,Ajax,509,Brown,,Stephanie,NDP-New Democratic Party,N,N,9
+35001,Ajax,61,Ajax,509,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,61,Ajax,509,Holland,,Mark,Liberal,N,Y,153
+35001,Ajax,61,Ajax,509,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,62,Ajax,515,Alexander,,Chris,Conservative,Y,N,45
+35001,Ajax,62,Ajax,515,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,62,Ajax,515,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,62,Ajax,515,Holland,,Mark,Liberal,N,Y,144
+35001,Ajax,62,Ajax,515,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,63,Ajax,486,Alexander,,Chris,Conservative,Y,N,59
+35001,Ajax,63,Ajax,486,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,63,Ajax,486,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,63,Ajax,486,Holland,,Mark,Liberal,N,Y,133
+35001,Ajax,63,Ajax,486,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,64,Ajax,396,Alexander,,Chris,Conservative,Y,N,67
+35001,Ajax,64,Ajax,396,Brown,,Stephanie,NDP-New Democratic Party,N,N,9
+35001,Ajax,64,Ajax,396,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,64,Ajax,396,Holland,,Mark,Liberal,N,Y,140
+35001,Ajax,64,Ajax,396,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,65,Ajax,488,Alexander,,Chris,Conservative,Y,N,48
+35001,Ajax,65,Ajax,488,Brown,,Stephanie,NDP-New Democratic Party,N,N,25
+35001,Ajax,65,Ajax,488,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,65,Ajax,488,Holland,,Mark,Liberal,N,Y,159
+35001,Ajax,65,Ajax,488,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,66,Ajax,516,Alexander,,Chris,Conservative,Y,N,71
+35001,Ajax,66,Ajax,516,Brown,,Stephanie,NDP-New Democratic Party,N,N,13
+35001,Ajax,66,Ajax,516,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,66,Ajax,516,Holland,,Mark,Liberal,N,Y,142
+35001,Ajax,66,Ajax,516,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,67,Ajax,497,Alexander,,Chris,Conservative,Y,N,56
+35001,Ajax,67,Ajax,497,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,67,Ajax,497,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,67,Ajax,497,Holland,,Mark,Liberal,N,Y,119
+35001,Ajax,67,Ajax,497,Kesic,,Bob,United Party,N,N,1
+35001,Ajax, 68A,Ajax,437,Alexander,,Chris,Conservative,Y,N,74
+35001,Ajax, 68A,Ajax,437,Brown,,Stephanie,NDP-New Democratic Party,N,N,23
+35001,Ajax, 68A,Ajax,437,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax, 68A,Ajax,437,Holland,,Mark,Liberal,N,Y,124
+35001,Ajax, 68A,Ajax,437,Kesic,,Bob,United Party,N,N,1
+35001,Ajax, 68B,Ajax,365,Alexander,,Chris,Conservative,Y,N,45
+35001,Ajax, 68B,Ajax,365,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax, 68B,Ajax,365,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax, 68B,Ajax,365,Holland,,Mark,Liberal,N,Y,102
+35001,Ajax, 68B,Ajax,365,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,69,Ajax,484,Alexander,,Chris,Conservative,Y,N,104
+35001,Ajax,69,Ajax,484,Brown,,Stephanie,NDP-New Democratic Party,N,N,10
+35001,Ajax,69,Ajax,484,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,69,Ajax,484,Holland,,Mark,Liberal,N,Y,123
+35001,Ajax,69,Ajax,484,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,70,Ajax,441,Alexander,,Chris,Conservative,Y,N,92
+35001,Ajax,70,Ajax,441,Brown,,Stephanie,NDP-New Democratic Party,N,N,12
+35001,Ajax,70,Ajax,441,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,70,Ajax,441,Holland,,Mark,Liberal,N,Y,122
+35001,Ajax,70,Ajax,441,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,71,Ajax,407,Alexander,,Chris,Conservative,Y,N,101
+35001,Ajax,71,Ajax,407,Brown,,Stephanie,NDP-New Democratic Party,N,N,12
+35001,Ajax,71,Ajax,407,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,71,Ajax,407,Holland,,Mark,Liberal,N,Y,94
+35001,Ajax,71,Ajax,407,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,72,Ajax,445,Alexander,,Chris,Conservative,Y,N,115
+35001,Ajax,72,Ajax,445,Brown,,Stephanie,NDP-New Democratic Party,N,N,7
+35001,Ajax,72,Ajax,445,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,72,Ajax,445,Holland,,Mark,Liberal,N,Y,131
+35001,Ajax,72,Ajax,445,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,73,Ajax,451,Alexander,,Chris,Conservative,Y,N,107
+35001,Ajax,73,Ajax,451,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,73,Ajax,451,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,73,Ajax,451,Holland,,Mark,Liberal,N,Y,127
+35001,Ajax,73,Ajax,451,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,74,Ajax,423,Alexander,,Chris,Conservative,Y,N,94
+35001,Ajax,74,Ajax,423,Brown,,Stephanie,NDP-New Democratic Party,N,N,16
+35001,Ajax,74,Ajax,423,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,74,Ajax,423,Holland,,Mark,Liberal,N,Y,136
+35001,Ajax,74,Ajax,423,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,75,Ajax,444,Alexander,,Chris,Conservative,Y,N,66
+35001,Ajax,75,Ajax,444,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,75,Ajax,444,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,75,Ajax,444,Holland,,Mark,Liberal,N,Y,111
+35001,Ajax,75,Ajax,444,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,76,Ajax,478,Alexander,,Chris,Conservative,Y,N,82
+35001,Ajax,76,Ajax,478,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,76,Ajax,478,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,76,Ajax,478,Holland,,Mark,Liberal,N,Y,136
+35001,Ajax,76,Ajax,478,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,77,Ajax,539,Alexander,,Chris,Conservative,Y,N,92
+35001,Ajax,77,Ajax,539,Brown,,Stephanie,NDP-New Democratic Party,N,N,29
+35001,Ajax,77,Ajax,539,Hill,,Jeff,Green Party,N,N,8
+35001,Ajax,77,Ajax,539,Holland,,Mark,Liberal,N,Y,141
+35001,Ajax,77,Ajax,539,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,78,Ajax,439,Alexander,,Chris,Conservative,Y,N,75
+35001,Ajax,78,Ajax,439,Brown,,Stephanie,NDP-New Democratic Party,N,N,20
+35001,Ajax,78,Ajax,439,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,78,Ajax,439,Holland,,Mark,Liberal,N,Y,126
+35001,Ajax,78,Ajax,439,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,79,Ajax,434,Alexander,,Chris,Conservative,Y,N,85
+35001,Ajax,79,Ajax,434,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,79,Ajax,434,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,79,Ajax,434,Holland,,Mark,Liberal,N,Y,121
+35001,Ajax,79,Ajax,434,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,80,Ajax,498,Alexander,,Chris,Conservative,Y,N,78
+35001,Ajax,80,Ajax,498,Brown,,Stephanie,NDP-New Democratic Party,N,N,25
+35001,Ajax,80,Ajax,498,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,80,Ajax,498,Holland,,Mark,Liberal,N,Y,148
+35001,Ajax,80,Ajax,498,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,81,Ajax,512,Alexander,,Chris,Conservative,Y,N,84
+35001,Ajax,81,Ajax,512,Brown,,Stephanie,NDP-New Democratic Party,N,N,24
+35001,Ajax,81,Ajax,512,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax,81,Ajax,512,Holland,,Mark,Liberal,N,Y,133
+35001,Ajax,81,Ajax,512,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,82,Ajax,458,Alexander,,Chris,Conservative,Y,N,103
+35001,Ajax,82,Ajax,458,Brown,,Stephanie,NDP-New Democratic Party,N,N,29
+35001,Ajax,82,Ajax,458,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,82,Ajax,458,Holland,,Mark,Liberal,N,Y,139
+35001,Ajax,82,Ajax,458,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,83,Ajax,529,Alexander,,Chris,Conservative,Y,N,99
+35001,Ajax,83,Ajax,529,Brown,,Stephanie,NDP-New Democratic Party,N,N,26
+35001,Ajax,83,Ajax,529,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,83,Ajax,529,Holland,,Mark,Liberal,N,Y,141
+35001,Ajax,83,Ajax,529,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,84,Ajax,440,Alexander,,Chris,Conservative,Y,N,81
+35001,Ajax,84,Ajax,440,Brown,,Stephanie,NDP-New Democratic Party,N,N,25
+35001,Ajax,84,Ajax,440,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,84,Ajax,440,Holland,,Mark,Liberal,N,Y,121
+35001,Ajax,84,Ajax,440,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,85,Ajax,504,Alexander,,Chris,Conservative,Y,N,75
+35001,Ajax,85,Ajax,504,Brown,,Stephanie,NDP-New Democratic Party,N,N,29
+35001,Ajax,85,Ajax,504,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,85,Ajax,504,Holland,,Mark,Liberal,N,Y,137
+35001,Ajax,85,Ajax,504,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,86,Ajax,483,Alexander,,Chris,Conservative,Y,N,92
+35001,Ajax,86,Ajax,483,Brown,,Stephanie,NDP-New Democratic Party,N,N,30
+35001,Ajax,86,Ajax,483,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,86,Ajax,483,Holland,,Mark,Liberal,N,Y,126
+35001,Ajax,86,Ajax,483,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,87,Ajax,475,Alexander,,Chris,Conservative,Y,N,90
+35001,Ajax,87,Ajax,475,Brown,,Stephanie,NDP-New Democratic Party,N,N,26
+35001,Ajax,87,Ajax,475,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,87,Ajax,475,Holland,,Mark,Liberal,N,Y,127
+35001,Ajax,87,Ajax,475,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,88,Ajax,524,Alexander,,Chris,Conservative,Y,N,111
+35001,Ajax,88,Ajax,524,Brown,,Stephanie,NDP-New Democratic Party,N,N,27
+35001,Ajax,88,Ajax,524,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,88,Ajax,524,Holland,,Mark,Liberal,N,Y,135
+35001,Ajax,88,Ajax,524,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,89,Ajax,541,Alexander,,Chris,Conservative,Y,N,97
+35001,Ajax,89,Ajax,541,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,89,Ajax,541,Hill,,Jeff,Green Party,N,N,8
+35001,Ajax,89,Ajax,541,Holland,,Mark,Liberal,N,Y,142
+35001,Ajax,89,Ajax,541,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,90,Ajax,448,Alexander,,Chris,Conservative,Y,N,66
+35001,Ajax,90,Ajax,448,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,90,Ajax,448,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,90,Ajax,448,Holland,,Mark,Liberal,N,Y,116
+35001,Ajax,90,Ajax,448,Kesic,,Bob,United Party,N,N,1
+35001,Ajax, 91A,Ajax,490,Alexander,,Chris,Conservative,Y,N,77
+35001,Ajax, 91A,Ajax,490,Brown,,Stephanie,NDP-New Democratic Party,N,N,9
+35001,Ajax, 91A,Ajax,490,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax, 91A,Ajax,490,Holland,,Mark,Liberal,N,Y,142
+35001,Ajax, 91A,Ajax,490,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 91B,Mobile poll/Bureau itinérant,73,Alexander,,Chris,Conservative,Y,N,0
+35001,Ajax, 91B,Mobile poll/Bureau itinérant,73,Brown,,Stephanie,NDP-New Democratic Party,N,N,0
+35001,Ajax, 91B,Mobile poll/Bureau itinérant,73,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax, 91B,Mobile poll/Bureau itinérant,73,Holland,,Mark,Liberal,N,Y,0
+35001,Ajax, 91B,Mobile poll/Bureau itinérant,73,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,92,Ajax,436,Alexander,,Chris,Conservative,Y,N,69
+35001,Ajax,92,Ajax,436,Brown,,Stephanie,NDP-New Democratic Party,N,N,21
+35001,Ajax,92,Ajax,436,Hill,,Jeff,Green Party,N,N,8
+35001,Ajax,92,Ajax,436,Holland,,Mark,Liberal,N,Y,146
+35001,Ajax,92,Ajax,436,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,93,Ajax,395,Alexander,,Chris,Conservative,Y,N,52
+35001,Ajax,93,Ajax,395,Brown,,Stephanie,NDP-New Democratic Party,N,N,17
+35001,Ajax,93,Ajax,395,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,93,Ajax,395,Holland,,Mark,Liberal,N,Y,103
+35001,Ajax,93,Ajax,395,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,94,Ajax,395,Alexander,,Chris,Conservative,Y,N,59
+35001,Ajax,94,Ajax,395,Brown,,Stephanie,NDP-New Democratic Party,N,N,20
+35001,Ajax,94,Ajax,395,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,94,Ajax,395,Holland,,Mark,Liberal,N,Y,117
+35001,Ajax,94,Ajax,395,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,95,Ajax,497,Alexander,,Chris,Conservative,Y,N,62
+35001,Ajax,95,Ajax,497,Brown,,Stephanie,NDP-New Democratic Party,N,N,22
+35001,Ajax,95,Ajax,497,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,95,Ajax,497,Holland,,Mark,Liberal,N,Y,138
+35001,Ajax,95,Ajax,497,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,96,Ajax,447,Alexander,,Chris,Conservative,Y,N,86
+35001,Ajax,96,Ajax,447,Brown,,Stephanie,NDP-New Democratic Party,N,N,21
+35001,Ajax,96,Ajax,447,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,96,Ajax,447,Holland,,Mark,Liberal,N,Y,92
+35001,Ajax,96,Ajax,447,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,97,Ajax,407,Alexander,,Chris,Conservative,Y,N,42
+35001,Ajax,97,Ajax,407,Brown,,Stephanie,NDP-New Democratic Party,N,N,8
+35001,Ajax,97,Ajax,407,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,97,Ajax,407,Holland,,Mark,Liberal,N,Y,141
+35001,Ajax,97,Ajax,407,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,98,Ajax,447,Alexander,,Chris,Conservative,Y,N,82
+35001,Ajax,98,Ajax,447,Brown,,Stephanie,NDP-New Democratic Party,N,N,6
+35001,Ajax,98,Ajax,447,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,98,Ajax,447,Holland,,Mark,Liberal,N,Y,122
+35001,Ajax,98,Ajax,447,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,99,Ajax,435,Alexander,,Chris,Conservative,Y,N,70
+35001,Ajax,99,Ajax,435,Brown,,Stephanie,NDP-New Democratic Party,N,N,11
+35001,Ajax,99,Ajax,435,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,99,Ajax,435,Holland,,Mark,Liberal,N,Y,153
+35001,Ajax,99,Ajax,435,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,100,Ajax,495,Alexander,,Chris,Conservative,Y,N,101
+35001,Ajax,100,Ajax,495,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,100,Ajax,495,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,100,Ajax,495,Holland,,Mark,Liberal,N,Y,112
+35001,Ajax,100,Ajax,495,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,101,Ajax,402,Alexander,,Chris,Conservative,Y,N,75
+35001,Ajax,101,Ajax,402,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,101,Ajax,402,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,101,Ajax,402,Holland,,Mark,Liberal,N,Y,118
+35001,Ajax,101,Ajax,402,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,102,Ajax,382,Alexander,,Chris,Conservative,Y,N,73
+35001,Ajax,102,Ajax,382,Brown,,Stephanie,NDP-New Democratic Party,N,N,16
+35001,Ajax,102,Ajax,382,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,102,Ajax,382,Holland,,Mark,Liberal,N,Y,85
+35001,Ajax,102,Ajax,382,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,103,Ajax,320,Alexander,,Chris,Conservative,Y,N,54
+35001,Ajax,103,Ajax,320,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,103,Ajax,320,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,103,Ajax,320,Holland,,Mark,Liberal,N,Y,94
+35001,Ajax,103,Ajax,320,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,104,Ajax,324,Alexander,,Chris,Conservative,Y,N,49
+35001,Ajax,104,Ajax,324,Brown,,Stephanie,NDP-New Democratic Party,N,N,8
+35001,Ajax,104,Ajax,324,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,104,Ajax,324,Holland,,Mark,Liberal,N,Y,73
+35001,Ajax,104,Ajax,324,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,105,Ajax,386,Alexander,,Chris,Conservative,Y,N,42
+35001,Ajax,105,Ajax,386,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,105,Ajax,386,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,105,Ajax,386,Holland,,Mark,Liberal,N,Y,117
+35001,Ajax,105,Ajax,386,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,106,Ajax,507,Alexander,,Chris,Conservative,Y,N,75
+35001,Ajax,106,Ajax,507,Brown,,Stephanie,NDP-New Democratic Party,N,N,22
+35001,Ajax,106,Ajax,507,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,106,Ajax,507,Holland,,Mark,Liberal,N,Y,171
+35001,Ajax,106,Ajax,507,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,107,Ajax,531,Alexander,,Chris,Conservative,Y,N,131
+35001,Ajax,107,Ajax,531,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,107,Ajax,531,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,107,Ajax,531,Holland,,Mark,Liberal,N,Y,136
+35001,Ajax,107,Ajax,531,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,108,Ajax,511,Alexander,,Chris,Conservative,Y,N,78
+35001,Ajax,108,Ajax,511,Brown,,Stephanie,NDP-New Democratic Party,N,N,20
+35001,Ajax,108,Ajax,511,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax,108,Ajax,511,Holland,,Mark,Liberal,N,Y,137
+35001,Ajax,108,Ajax,511,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,109,Ajax,434,Alexander,,Chris,Conservative,Y,N,77
+35001,Ajax,109,Ajax,434,Brown,,Stephanie,NDP-New Democratic Party,N,N,13
+35001,Ajax,109,Ajax,434,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,109,Ajax,434,Holland,,Mark,Liberal,N,Y,124
+35001,Ajax,109,Ajax,434,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,110,Ajax,438,Alexander,,Chris,Conservative,Y,N,92
+35001,Ajax,110,Ajax,438,Brown,,Stephanie,NDP-New Democratic Party,N,N,13
+35001,Ajax,110,Ajax,438,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,110,Ajax,438,Holland,,Mark,Liberal,N,Y,87
+35001,Ajax,110,Ajax,438,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,111,Ajax,396,Alexander,,Chris,Conservative,Y,N,86
+35001,Ajax,111,Ajax,396,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,111,Ajax,396,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,111,Ajax,396,Holland,,Mark,Liberal,N,Y,109
+35001,Ajax,111,Ajax,396,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,112,Ajax,395,Alexander,,Chris,Conservative,Y,N,75
+35001,Ajax,112,Ajax,395,Brown,,Stephanie,NDP-New Democratic Party,N,N,16
+35001,Ajax,112,Ajax,395,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,112,Ajax,395,Holland,,Mark,Liberal,N,Y,92
+35001,Ajax,112,Ajax,395,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,113,Ajax,415,Alexander,,Chris,Conservative,Y,N,74
+35001,Ajax,113,Ajax,415,Brown,,Stephanie,NDP-New Democratic Party,N,N,16
+35001,Ajax,113,Ajax,415,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,113,Ajax,415,Holland,,Mark,Liberal,N,Y,95
+35001,Ajax,113,Ajax,415,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,114,Ajax,379,Alexander,,Chris,Conservative,Y,N,66
+35001,Ajax,114,Ajax,379,Brown,,Stephanie,NDP-New Democratic Party,N,N,29
+35001,Ajax,114,Ajax,379,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,114,Ajax,379,Holland,,Mark,Liberal,N,Y,93
+35001,Ajax,114,Ajax,379,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,115,Ajax,412,Alexander,,Chris,Conservative,Y,N,66
+35001,Ajax,115,Ajax,412,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,115,Ajax,412,Hill,,Jeff,Green Party,N,N,8
+35001,Ajax,115,Ajax,412,Holland,,Mark,Liberal,N,Y,113
+35001,Ajax,115,Ajax,412,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,116,Ajax,312,Alexander,,Chris,Conservative,Y,N,93
+35001,Ajax,116,Ajax,312,Brown,,Stephanie,NDP-New Democratic Party,N,N,10
+35001,Ajax,116,Ajax,312,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,116,Ajax,312,Holland,,Mark,Liberal,N,Y,82
+35001,Ajax,116,Ajax,312,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,117,Ajax,427,Alexander,,Chris,Conservative,Y,N,81
+35001,Ajax,117,Ajax,427,Brown,,Stephanie,NDP-New Democratic Party,N,N,23
+35001,Ajax,117,Ajax,427,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,117,Ajax,427,Holland,,Mark,Liberal,N,Y,134
+35001,Ajax,117,Ajax,427,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,118,Ajax,403,Alexander,,Chris,Conservative,Y,N,91
+35001,Ajax,118,Ajax,403,Brown,,Stephanie,NDP-New Democratic Party,N,N,13
+35001,Ajax,118,Ajax,403,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,118,Ajax,403,Holland,,Mark,Liberal,N,Y,132
+35001,Ajax,118,Ajax,403,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,119,Ajax,421,Alexander,,Chris,Conservative,Y,N,71
+35001,Ajax,119,Ajax,421,Brown,,Stephanie,NDP-New Democratic Party,N,N,24
+35001,Ajax,119,Ajax,421,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,119,Ajax,421,Holland,,Mark,Liberal,N,Y,115
+35001,Ajax,119,Ajax,421,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,120,Ajax,452,Alexander,,Chris,Conservative,Y,N,80
+35001,Ajax,120,Ajax,452,Brown,,Stephanie,NDP-New Democratic Party,N,N,11
+35001,Ajax,120,Ajax,452,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,120,Ajax,452,Holland,,Mark,Liberal,N,Y,134
+35001,Ajax,120,Ajax,452,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,121,Ajax,404,Alexander,,Chris,Conservative,Y,N,67
+35001,Ajax,121,Ajax,404,Brown,,Stephanie,NDP-New Democratic Party,N,N,22
+35001,Ajax,121,Ajax,404,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,121,Ajax,404,Holland,,Mark,Liberal,N,Y,107
+35001,Ajax,121,Ajax,404,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,122,Ajax,502,Alexander,,Chris,Conservative,Y,N,82
+35001,Ajax,122,Ajax,502,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,122,Ajax,502,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,122,Ajax,502,Holland,,Mark,Liberal,N,Y,135
+35001,Ajax,122,Ajax,502,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,123,Ajax,329,Alexander,,Chris,Conservative,Y,N,54
+35001,Ajax,123,Ajax,329,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,123,Ajax,329,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,123,Ajax,329,Holland,,Mark,Liberal,N,Y,111
+35001,Ajax,123,Ajax,329,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,124,Ajax,456,Alexander,,Chris,Conservative,Y,N,69
+35001,Ajax,124,Ajax,456,Brown,,Stephanie,NDP-New Democratic Party,N,N,21
+35001,Ajax,124,Ajax,456,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,124,Ajax,456,Holland,,Mark,Liberal,N,Y,142
+35001,Ajax,124,Ajax,456,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,125,Ajax,450,Alexander,,Chris,Conservative,Y,N,78
+35001,Ajax,125,Ajax,450,Brown,,Stephanie,NDP-New Democratic Party,N,N,42
+35001,Ajax,125,Ajax,450,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,125,Ajax,450,Holland,,Mark,Liberal,N,Y,86
+35001,Ajax,125,Ajax,450,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,126,Ajax,462,Alexander,,Chris,Conservative,Y,N,98
+35001,Ajax,126,Ajax,462,Brown,,Stephanie,NDP-New Democratic Party,N,N,35
+35001,Ajax,126,Ajax,462,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,126,Ajax,462,Holland,,Mark,Liberal,N,Y,97
+35001,Ajax,126,Ajax,462,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,127,Ajax,386,Alexander,,Chris,Conservative,Y,N,59
+35001,Ajax,127,Ajax,386,Brown,,Stephanie,NDP-New Democratic Party,N,N,30
+35001,Ajax,127,Ajax,386,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,127,Ajax,386,Holland,,Mark,Liberal,N,Y,96
+35001,Ajax,127,Ajax,386,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,128,Ajax,299,Alexander,,Chris,Conservative,Y,N,55
+35001,Ajax,128,Ajax,299,Brown,,Stephanie,NDP-New Democratic Party,N,N,11
+35001,Ajax,128,Ajax,299,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,128,Ajax,299,Holland,,Mark,Liberal,N,Y,84
+35001,Ajax,128,Ajax,299,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,129,Ajax,483,Alexander,,Chris,Conservative,Y,N,100
+35001,Ajax,129,Ajax,483,Brown,,Stephanie,NDP-New Democratic Party,N,N,26
+35001,Ajax,129,Ajax,483,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,129,Ajax,483,Holland,,Mark,Liberal,N,Y,114
+35001,Ajax,129,Ajax,483,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,130,Ajax,363,Alexander,,Chris,Conservative,Y,N,61
+35001,Ajax,130,Ajax,363,Brown,,Stephanie,NDP-New Democratic Party,N,N,17
+35001,Ajax,130,Ajax,363,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,130,Ajax,363,Holland,,Mark,Liberal,N,Y,94
+35001,Ajax,130,Ajax,363,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,131,Ajax,471,Alexander,,Chris,Conservative,Y,N,54
+35001,Ajax,131,Ajax,471,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,131,Ajax,471,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,131,Ajax,471,Holland,,Mark,Liberal,N,Y,118
+35001,Ajax,131,Ajax,471,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,132,Ajax,488,Alexander,,Chris,Conservative,Y,N,51
+35001,Ajax,132,Ajax,488,Brown,,Stephanie,NDP-New Democratic Party,N,N,27
+35001,Ajax,132,Ajax,488,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,132,Ajax,488,Holland,,Mark,Liberal,N,Y,132
+35001,Ajax,132,Ajax,488,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,133,Ajax,452,Alexander,,Chris,Conservative,Y,N,47
+35001,Ajax,133,Ajax,452,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,133,Ajax,452,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,133,Ajax,452,Holland,,Mark,Liberal,N,Y,133
+35001,Ajax,133,Ajax,452,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,134,Ajax,358,Alexander,,Chris,Conservative,Y,N,53
+35001,Ajax,134,Ajax,358,Brown,,Stephanie,NDP-New Democratic Party,N,N,13
+35001,Ajax,134,Ajax,358,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,134,Ajax,358,Holland,,Mark,Liberal,N,Y,100
+35001,Ajax,134,Ajax,358,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,135,Ajax,427,Alexander,,Chris,Conservative,Y,N,51
+35001,Ajax,135,Ajax,427,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,135,Ajax,427,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,135,Ajax,427,Holland,,Mark,Liberal,N,Y,154
+35001,Ajax,135,Ajax,427,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,136,Ajax,398,Alexander,,Chris,Conservative,Y,N,79
+35001,Ajax,136,Ajax,398,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,136,Ajax,398,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,136,Ajax,398,Holland,,Mark,Liberal,N,Y,115
+35001,Ajax,136,Ajax,398,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,137,Ajax,488,Alexander,,Chris,Conservative,Y,N,106
+35001,Ajax,137,Ajax,488,Brown,,Stephanie,NDP-New Democratic Party,N,N,17
+35001,Ajax,137,Ajax,488,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,137,Ajax,488,Holland,,Mark,Liberal,N,Y,124
+35001,Ajax,137,Ajax,488,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,138,Ajax,368,Alexander,,Chris,Conservative,Y,N,76
+35001,Ajax,138,Ajax,368,Brown,,Stephanie,NDP-New Democratic Party,N,N,23
+35001,Ajax,138,Ajax,368,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,138,Ajax,368,Holland,,Mark,Liberal,N,Y,101
+35001,Ajax,138,Ajax,368,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,139,Ajax,450,Alexander,,Chris,Conservative,Y,N,107
+35001,Ajax,139,Ajax,450,Brown,,Stephanie,NDP-New Democratic Party,N,N,37
+35001,Ajax,139,Ajax,450,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,139,Ajax,450,Holland,,Mark,Liberal,N,Y,122
+35001,Ajax,139,Ajax,450,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,140,Ajax,386,Alexander,,Chris,Conservative,Y,N,77
+35001,Ajax,140,Ajax,386,Brown,,Stephanie,NDP-New Democratic Party,N,N,41
+35001,Ajax,140,Ajax,386,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,140,Ajax,386,Holland,,Mark,Liberal,N,Y,102
+35001,Ajax,140,Ajax,386,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,141,Ajax,385,Alexander,,Chris,Conservative,Y,N,77
+35001,Ajax,141,Ajax,385,Brown,,Stephanie,NDP-New Democratic Party,N,N,31
+35001,Ajax,141,Ajax,385,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,141,Ajax,385,Holland,,Mark,Liberal,N,Y,89
+35001,Ajax,141,Ajax,385,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,142,Ajax,477,Alexander,,Chris,Conservative,Y,N,74
+35001,Ajax,142,Ajax,477,Brown,,Stephanie,NDP-New Democratic Party,N,N,38
+35001,Ajax,142,Ajax,477,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,142,Ajax,477,Holland,,Mark,Liberal,N,Y,97
+35001,Ajax,142,Ajax,477,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,143,Ajax,471,Alexander,,Chris,Conservative,Y,N,75
+35001,Ajax,143,Ajax,471,Brown,,Stephanie,NDP-New Democratic Party,N,N,33
+35001,Ajax,143,Ajax,471,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax,143,Ajax,471,Holland,,Mark,Liberal,N,Y,85
+35001,Ajax,143,Ajax,471,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,144,Ajax,483,Alexander,,Chris,Conservative,Y,N,90
+35001,Ajax,144,Ajax,483,Brown,,Stephanie,NDP-New Democratic Party,N,N,37
+35001,Ajax,144,Ajax,483,Hill,,Jeff,Green Party,N,N,9
+35001,Ajax,144,Ajax,483,Holland,,Mark,Liberal,N,Y,96
+35001,Ajax,144,Ajax,483,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,145,Ajax,440,Alexander,,Chris,Conservative,Y,N,66
+35001,Ajax,145,Ajax,440,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,145,Ajax,440,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,145,Ajax,440,Holland,,Mark,Liberal,N,Y,128
+35001,Ajax,145,Ajax,440,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,146,Ajax,397,Alexander,,Chris,Conservative,Y,N,71
+35001,Ajax,146,Ajax,397,Brown,,Stephanie,NDP-New Democratic Party,N,N,23
+35001,Ajax,146,Ajax,397,Hill,,Jeff,Green Party,N,N,9
+35001,Ajax,146,Ajax,397,Holland,,Mark,Liberal,N,Y,79
+35001,Ajax,146,Ajax,397,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,147,Ajax,491,Alexander,,Chris,Conservative,Y,N,82
+35001,Ajax,147,Ajax,491,Brown,,Stephanie,NDP-New Democratic Party,N,N,33
+35001,Ajax,147,Ajax,491,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,147,Ajax,491,Holland,,Mark,Liberal,N,Y,116
+35001,Ajax,147,Ajax,491,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,148,Ajax,411,Alexander,,Chris,Conservative,Y,N,80
+35001,Ajax,148,Ajax,411,Brown,,Stephanie,NDP-New Democratic Party,N,N,13
+35001,Ajax,148,Ajax,411,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,148,Ajax,411,Holland,,Mark,Liberal,N,Y,130
+35001,Ajax,148,Ajax,411,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,149,Ajax,552,Alexander,,Chris,Conservative,Y,N,104
+35001,Ajax,149,Ajax,552,Brown,,Stephanie,NDP-New Democratic Party,N,N,23
+35001,Ajax,149,Ajax,552,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,149,Ajax,552,Holland,,Mark,Liberal,N,Y,165
+35001,Ajax,149,Ajax,552,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,150,Ajax,482,Alexander,,Chris,Conservative,Y,N,107
+35001,Ajax,150,Ajax,482,Brown,,Stephanie,NDP-New Democratic Party,N,N,34
+35001,Ajax,150,Ajax,482,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,150,Ajax,482,Holland,,Mark,Liberal,N,Y,134
+35001,Ajax,150,Ajax,482,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,151,Ajax,444,Alexander,,Chris,Conservative,Y,N,83
+35001,Ajax,151,Ajax,444,Brown,,Stephanie,NDP-New Democratic Party,N,N,9
+35001,Ajax,151,Ajax,444,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,151,Ajax,444,Holland,,Mark,Liberal,N,Y,130
+35001,Ajax,151,Ajax,444,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,152,Ajax,396,Alexander,,Chris,Conservative,Y,N,93
+35001,Ajax,152,Ajax,396,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,152,Ajax,396,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,152,Ajax,396,Holland,,Mark,Liberal,N,Y,106
+35001,Ajax,152,Ajax,396,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,153,Ajax,383,Alexander,,Chris,Conservative,Y,N,89
+35001,Ajax,153,Ajax,383,Brown,,Stephanie,NDP-New Democratic Party,N,N,27
+35001,Ajax,153,Ajax,383,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax,153,Ajax,383,Holland,,Mark,Liberal,N,Y,124
+35001,Ajax,153,Ajax,383,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,154,Ajax,387,Alexander,,Chris,Conservative,Y,N,103
+35001,Ajax,154,Ajax,387,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,154,Ajax,387,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,154,Ajax,387,Holland,,Mark,Liberal,N,Y,80
+35001,Ajax,154,Ajax,387,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,155,Ajax,373,Alexander,,Chris,Conservative,Y,N,59
+35001,Ajax,155,Ajax,373,Brown,,Stephanie,NDP-New Democratic Party,N,N,23
+35001,Ajax,155,Ajax,373,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax,155,Ajax,373,Holland,,Mark,Liberal,N,Y,86
+35001,Ajax,155,Ajax,373,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,156,Ajax,382,Alexander,,Chris,Conservative,Y,N,65
+35001,Ajax,156,Ajax,382,Brown,,Stephanie,NDP-New Democratic Party,N,N,23
+35001,Ajax,156,Ajax,382,Hill,,Jeff,Green Party,N,N,1
+35001,Ajax,156,Ajax,382,Holland,,Mark,Liberal,N,Y,112
+35001,Ajax,156,Ajax,382,Kesic,,Bob,United Party,N,N,2
+35001,Ajax,157,Ajax,382,Alexander,,Chris,Conservative,Y,N,54
+35001,Ajax,157,Ajax,382,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,157,Ajax,382,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,157,Ajax,382,Holland,,Mark,Liberal,N,Y,101
+35001,Ajax,157,Ajax,382,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,158,Ajax,415,Alexander,,Chris,Conservative,Y,N,135
+35001,Ajax,158,Ajax,415,Brown,,Stephanie,NDP-New Democratic Party,N,N,11
+35001,Ajax,158,Ajax,415,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax,158,Ajax,415,Holland,,Mark,Liberal,N,Y,103
+35001,Ajax,158,Ajax,415,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,159,Ajax,476,Alexander,,Chris,Conservative,Y,N,103
+35001,Ajax,159,Ajax,476,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,159,Ajax,476,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,159,Ajax,476,Holland,,Mark,Liberal,N,Y,120
+35001,Ajax,159,Ajax,476,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,160,Ajax,506,Alexander,,Chris,Conservative,Y,N,112
+35001,Ajax,160,Ajax,506,Brown,,Stephanie,NDP-New Democratic Party,N,N,26
+35001,Ajax,160,Ajax,506,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,160,Ajax,506,Holland,,Mark,Liberal,N,Y,119
+35001,Ajax,160,Ajax,506,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,161,Ajax,430,Alexander,,Chris,Conservative,Y,N,76
+35001,Ajax,161,Ajax,430,Brown,,Stephanie,NDP-New Democratic Party,N,N,21
+35001,Ajax,161,Ajax,430,Hill,,Jeff,Green Party,N,N,11
+35001,Ajax,161,Ajax,430,Holland,,Mark,Liberal,N,Y,118
+35001,Ajax,161,Ajax,430,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,162,Ajax,431,Alexander,,Chris,Conservative,Y,N,110
+35001,Ajax,162,Ajax,431,Brown,,Stephanie,NDP-New Democratic Party,N,N,11
+35001,Ajax,162,Ajax,431,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,162,Ajax,431,Holland,,Mark,Liberal,N,Y,93
+35001,Ajax,162,Ajax,431,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,163,Ajax,514,Alexander,,Chris,Conservative,Y,N,68
+35001,Ajax,163,Ajax,514,Brown,,Stephanie,NDP-New Democratic Party,N,N,23
+35001,Ajax,163,Ajax,514,Hill,,Jeff,Green Party,N,N,0
+35001,Ajax,163,Ajax,514,Holland,,Mark,Liberal,N,Y,121
+35001,Ajax,163,Ajax,514,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,164,Ajax,382,Alexander,,Chris,Conservative,Y,N,43
+35001,Ajax,164,Ajax,382,Brown,,Stephanie,NDP-New Democratic Party,N,N,22
+35001,Ajax,164,Ajax,382,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,164,Ajax,382,Holland,,Mark,Liberal,N,Y,94
+35001,Ajax,164,Ajax,382,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,165,Ajax,488,Alexander,,Chris,Conservative,Y,N,81
+35001,Ajax,165,Ajax,488,Brown,,Stephanie,NDP-New Democratic Party,N,N,29
+35001,Ajax,165,Ajax,488,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,165,Ajax,488,Holland,,Mark,Liberal,N,Y,131
+35001,Ajax,165,Ajax,488,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,166,Ajax,431,Alexander,,Chris,Conservative,Y,N,84
+35001,Ajax,166,Ajax,431,Brown,,Stephanie,NDP-New Democratic Party,N,N,23
+35001,Ajax,166,Ajax,431,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,166,Ajax,431,Holland,,Mark,Liberal,N,Y,120
+35001,Ajax,166,Ajax,431,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,167,Ajax,416,Alexander,,Chris,Conservative,Y,N,85
+35001,Ajax,167,Ajax,416,Brown,,Stephanie,NDP-New Democratic Party,N,N,31
+35001,Ajax,167,Ajax,416,Hill,,Jeff,Green Party,N,N,12
+35001,Ajax,167,Ajax,416,Holland,,Mark,Liberal,N,Y,111
+35001,Ajax,167,Ajax,416,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 168A,Ajax,325,Alexander,,Chris,Conservative,Y,N,78
+35001,Ajax, 168A,Ajax,325,Brown,,Stephanie,NDP-New Democratic Party,N,N,16
+35001,Ajax, 168A,Ajax,325,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax, 168A,Ajax,325,Holland,,Mark,Liberal,N,Y,77
+35001,Ajax, 168A,Ajax,325,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, 168B,Ajax,343,Alexander,,Chris,Conservative,Y,N,75
+35001,Ajax, 168B,Ajax,343,Brown,,Stephanie,NDP-New Democratic Party,N,N,29
+35001,Ajax, 168B,Ajax,343,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax, 168B,Ajax,343,Holland,,Mark,Liberal,N,Y,78
+35001,Ajax, 168B,Ajax,343,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,169,Ajax,416,Alexander,,Chris,Conservative,Y,N,109
+35001,Ajax,169,Ajax,416,Brown,,Stephanie,NDP-New Democratic Party,N,N,24
+35001,Ajax,169,Ajax,416,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,169,Ajax,416,Holland,,Mark,Liberal,N,Y,132
+35001,Ajax,169,Ajax,416,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,170,Ajax,380,Alexander,,Chris,Conservative,Y,N,92
+35001,Ajax,170,Ajax,380,Brown,,Stephanie,NDP-New Democratic Party,N,N,24
+35001,Ajax,170,Ajax,380,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,170,Ajax,380,Holland,,Mark,Liberal,N,Y,99
+35001,Ajax,170,Ajax,380,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,171,Ajax,437,Alexander,,Chris,Conservative,Y,N,95
+35001,Ajax,171,Ajax,437,Brown,,Stephanie,NDP-New Democratic Party,N,N,30
+35001,Ajax,171,Ajax,437,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,171,Ajax,437,Holland,,Mark,Liberal,N,Y,103
+35001,Ajax,171,Ajax,437,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,172,Ajax,417,Alexander,,Chris,Conservative,Y,N,86
+35001,Ajax,172,Ajax,417,Brown,,Stephanie,NDP-New Democratic Party,N,N,21
+35001,Ajax,172,Ajax,417,Hill,,Jeff,Green Party,N,N,8
+35001,Ajax,172,Ajax,417,Holland,,Mark,Liberal,N,Y,116
+35001,Ajax,172,Ajax,417,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,173,Ajax,388,Alexander,,Chris,Conservative,Y,N,86
+35001,Ajax,173,Ajax,388,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,173,Ajax,388,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,173,Ajax,388,Holland,,Mark,Liberal,N,Y,103
+35001,Ajax,173,Ajax,388,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,174,Ajax,382,Alexander,,Chris,Conservative,Y,N,79
+35001,Ajax,174,Ajax,382,Brown,,Stephanie,NDP-New Democratic Party,N,N,17
+35001,Ajax,174,Ajax,382,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,174,Ajax,382,Holland,,Mark,Liberal,N,Y,99
+35001,Ajax,174,Ajax,382,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,175,Ajax,502,Alexander,,Chris,Conservative,Y,N,112
+35001,Ajax,175,Ajax,502,Brown,,Stephanie,NDP-New Democratic Party,N,N,27
+35001,Ajax,175,Ajax,502,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax,175,Ajax,502,Holland,,Mark,Liberal,N,Y,133
+35001,Ajax,175,Ajax,502,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,176,Ajax,436,Alexander,,Chris,Conservative,Y,N,78
+35001,Ajax,176,Ajax,436,Brown,,Stephanie,NDP-New Democratic Party,N,N,33
+35001,Ajax,176,Ajax,436,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax,176,Ajax,436,Holland,,Mark,Liberal,N,Y,115
+35001,Ajax,176,Ajax,436,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,177,Ajax,446,Alexander,,Chris,Conservative,Y,N,94
+35001,Ajax,177,Ajax,446,Brown,,Stephanie,NDP-New Democratic Party,N,N,19
+35001,Ajax,177,Ajax,446,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,177,Ajax,446,Holland,,Mark,Liberal,N,Y,96
+35001,Ajax,177,Ajax,446,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,178,Ajax,391,Alexander,,Chris,Conservative,Y,N,76
+35001,Ajax,178,Ajax,391,Brown,,Stephanie,NDP-New Democratic Party,N,N,18
+35001,Ajax,178,Ajax,391,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax,178,Ajax,391,Holland,,Mark,Liberal,N,Y,128
+35001,Ajax,178,Ajax,391,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,179,Ajax,475,Alexander,,Chris,Conservative,Y,N,116
+35001,Ajax,179,Ajax,475,Brown,,Stephanie,NDP-New Democratic Party,N,N,20
+35001,Ajax,179,Ajax,475,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,179,Ajax,475,Holland,,Mark,Liberal,N,Y,128
+35001,Ajax,179,Ajax,475,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,180,Ajax,436,Alexander,,Chris,Conservative,Y,N,120
+35001,Ajax,180,Ajax,436,Brown,,Stephanie,NDP-New Democratic Party,N,N,24
+35001,Ajax,180,Ajax,436,Hill,,Jeff,Green Party,N,N,8
+35001,Ajax,180,Ajax,436,Holland,,Mark,Liberal,N,Y,131
+35001,Ajax,180,Ajax,436,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,181,Ajax,338,Alexander,,Chris,Conservative,Y,N,94
+35001,Ajax,181,Ajax,338,Brown,,Stephanie,NDP-New Democratic Party,N,N,22
+35001,Ajax,181,Ajax,338,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,181,Ajax,338,Holland,,Mark,Liberal,N,Y,85
+35001,Ajax,181,Ajax,338,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,182,Ajax,455,Alexander,,Chris,Conservative,Y,N,88
+35001,Ajax,182,Ajax,455,Brown,,Stephanie,NDP-New Democratic Party,N,N,11
+35001,Ajax,182,Ajax,455,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,182,Ajax,455,Holland,,Mark,Liberal,N,Y,94
+35001,Ajax,182,Ajax,455,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,183,Ajax,493,Alexander,,Chris,Conservative,Y,N,135
+35001,Ajax,183,Ajax,493,Brown,,Stephanie,NDP-New Democratic Party,N,N,25
+35001,Ajax,183,Ajax,493,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,183,Ajax,493,Holland,,Mark,Liberal,N,Y,140
+35001,Ajax,183,Ajax,493,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,184,Ajax,369,Alexander,,Chris,Conservative,Y,N,122
+35001,Ajax,184,Ajax,369,Brown,,Stephanie,NDP-New Democratic Party,N,N,10
+35001,Ajax,184,Ajax,369,Hill,,Jeff,Green Party,N,N,6
+35001,Ajax,184,Ajax,369,Holland,,Mark,Liberal,N,Y,93
+35001,Ajax,184,Ajax,369,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,400,Ajax,329,Alexander,,Chris,Conservative,Y,N,53
+35001,Ajax,400,Ajax,329,Brown,,Stephanie,NDP-New Democratic Party,N,N,32
+35001,Ajax,400,Ajax,329,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,400,Ajax,329,Holland,,Mark,Liberal,N,Y,133
+35001,Ajax,400,Ajax,329,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,401,Ajax,292,Alexander,,Chris,Conservative,Y,N,82
+35001,Ajax,401,Ajax,292,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,401,Ajax,292,Hill,,Jeff,Green Party,N,N,7
+35001,Ajax,401,Ajax,292,Holland,,Mark,Liberal,N,Y,94
+35001,Ajax,401,Ajax,292,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,402,Ajax,330,Alexander,,Chris,Conservative,Y,N,68
+35001,Ajax,402,Ajax,330,Brown,,Stephanie,NDP-New Democratic Party,N,N,35
+35001,Ajax,402,Ajax,330,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,402,Ajax,330,Holland,,Mark,Liberal,N,Y,110
+35001,Ajax,402,Ajax,330,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,403,Ajax,311,Alexander,,Chris,Conservative,Y,N,75
+35001,Ajax,403,Ajax,311,Brown,,Stephanie,NDP-New Democratic Party,N,N,15
+35001,Ajax,403,Ajax,311,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,403,Ajax,311,Holland,,Mark,Liberal,N,Y,108
+35001,Ajax,403,Ajax,311,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,404,Ajax,279,Alexander,,Chris,Conservative,Y,N,94
+35001,Ajax,404,Ajax,279,Brown,,Stephanie,NDP-New Democratic Party,N,N,25
+35001,Ajax,404,Ajax,279,Hill,,Jeff,Green Party,N,N,9
+35001,Ajax,404,Ajax,279,Holland,,Mark,Liberal,N,Y,91
+35001,Ajax,404,Ajax,279,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,500,Mobile poll/Bureau itinérant,181,Alexander,,Chris,Conservative,Y,N,75
+35001,Ajax,500,Mobile poll/Bureau itinérant,181,Brown,,Stephanie,NDP-New Democratic Party,N,N,14
+35001,Ajax,500,Mobile poll/Bureau itinérant,181,Hill,,Jeff,Green Party,N,N,2
+35001,Ajax,500,Mobile poll/Bureau itinérant,181,Holland,,Mark,Liberal,N,Y,63
+35001,Ajax,500,Mobile poll/Bureau itinérant,181,Kesic,,Bob,United Party,N,N,2
+35001,Ajax,501,Mobile poll/Bureau itinérant,296,Alexander,,Chris,Conservative,Y,N,65
+35001,Ajax,501,Mobile poll/Bureau itinérant,296,Brown,,Stephanie,NDP-New Democratic Party,N,N,22
+35001,Ajax,501,Mobile poll/Bureau itinérant,296,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,501,Mobile poll/Bureau itinérant,296,Holland,,Mark,Liberal,N,Y,72
+35001,Ajax,501,Mobile poll/Bureau itinérant,296,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,600,Ajax,0,Alexander,,Chris,Conservative,Y,N,382
+35001,Ajax,600,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,63
+35001,Ajax,600,Ajax,0,Hill,,Jeff,Green Party,N,N,4
+35001,Ajax,600,Ajax,0,Holland,,Mark,Liberal,N,Y,617
+35001,Ajax,600,Ajax,0,Kesic,,Bob,United Party,N,N,2
+35001,Ajax,601,Ajax,0,Alexander,,Chris,Conservative,Y,N,274
+35001,Ajax,601,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,53
+35001,Ajax,601,Ajax,0,Hill,,Jeff,Green Party,N,N,8
+35001,Ajax,601,Ajax,0,Holland,,Mark,Liberal,N,Y,488
+35001,Ajax,601,Ajax,0,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,602,Ajax,0,Alexander,,Chris,Conservative,Y,N,341
+35001,Ajax,602,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,64
+35001,Ajax,602,Ajax,0,Hill,,Jeff,Green Party,N,N,10
+35001,Ajax,602,Ajax,0,Holland,,Mark,Liberal,N,Y,712
+35001,Ajax,602,Ajax,0,Kesic,,Bob,United Party,N,N,2
+35001,Ajax,603,Ajax,0,Alexander,,Chris,Conservative,Y,N,237
+35001,Ajax,603,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,55
+35001,Ajax,603,Ajax,0,Hill,,Jeff,Green Party,N,N,8
+35001,Ajax,603,Ajax,0,Holland,,Mark,Liberal,N,Y,449
+35001,Ajax,603,Ajax,0,Kesic,,Bob,United Party,N,N,3
+35001,Ajax,604,Ajax,0,Alexander,,Chris,Conservative,Y,N,310
+35001,Ajax,604,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,58
+35001,Ajax,604,Ajax,0,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax,604,Ajax,0,Holland,,Mark,Liberal,N,Y,562
+35001,Ajax,604,Ajax,0,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,605,Ajax,0,Alexander,,Chris,Conservative,Y,N,304
+35001,Ajax,605,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,59
+35001,Ajax,605,Ajax,0,Hill,,Jeff,Green Party,N,N,5
+35001,Ajax,605,Ajax,0,Holland,,Mark,Liberal,N,Y,720
+35001,Ajax,605,Ajax,0,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,606,Ajax,0,Alexander,,Chris,Conservative,Y,N,305
+35001,Ajax,606,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,62
+35001,Ajax,606,Ajax,0,Hill,,Jeff,Green Party,N,N,9
+35001,Ajax,606,Ajax,0,Holland,,Mark,Liberal,N,Y,551
+35001,Ajax,606,Ajax,0,Kesic,,Bob,United Party,N,N,2
+35001,Ajax,607,Ajax,0,Alexander,,Chris,Conservative,Y,N,410
+35001,Ajax,607,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,69
+35001,Ajax,607,Ajax,0,Hill,,Jeff,Green Party,N,N,21
+35001,Ajax,607,Ajax,0,Holland,,Mark,Liberal,N,Y,487
+35001,Ajax,607,Ajax,0,Kesic,,Bob,United Party,N,N,0
+35001,Ajax,608,Ajax,0,Alexander,,Chris,Conservative,Y,N,252
+35001,Ajax,608,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,66
+35001,Ajax,608,Ajax,0,Hill,,Jeff,Green Party,N,N,13
+35001,Ajax,608,Ajax,0,Holland,,Mark,Liberal,N,Y,345
+35001,Ajax,608,Ajax,0,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,609,Ajax,0,Alexander,,Chris,Conservative,Y,N,204
+35001,Ajax,609,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,80
+35001,Ajax,609,Ajax,0,Hill,,Jeff,Green Party,N,N,8
+35001,Ajax,609,Ajax,0,Holland,,Mark,Liberal,N,Y,423
+35001,Ajax,609,Ajax,0,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,610,Ajax,0,Alexander,,Chris,Conservative,Y,N,363
+35001,Ajax,610,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,75
+35001,Ajax,610,Ajax,0,Hill,,Jeff,Green Party,N,N,13
+35001,Ajax,610,Ajax,0,Holland,,Mark,Liberal,N,Y,440
+35001,Ajax,610,Ajax,0,Kesic,,Bob,United Party,N,N,2
+35001,Ajax,611,Ajax,0,Alexander,,Chris,Conservative,Y,N,443
+35001,Ajax,611,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,60
+35001,Ajax,611,Ajax,0,Hill,,Jeff,Green Party,N,N,9
+35001,Ajax,611,Ajax,0,Holland,,Mark,Liberal,N,Y,435
+35001,Ajax,611,Ajax,0,Kesic,,Bob,United Party,N,N,1
+35001,Ajax,612,Ajax,0,Alexander,,Chris,Conservative,Y,N,343
+35001,Ajax,612,Ajax,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,74
+35001,Ajax,612,Ajax,0,Hill,,Jeff,Green Party,N,N,14
+35001,Ajax,612,Ajax,0,Holland,,Mark,Liberal,N,Y,570
+35001,Ajax,612,Ajax,0,Kesic,,Bob,United Party,N,N,0
+35001,Ajax, S/R 1,SVR Group 1/RÉS Groupe 1,87,Alexander,,Chris,Conservative,Y,N,32
+35001,Ajax, S/R 1,SVR Group 1/RÉS Groupe 1,87,Brown,,Stephanie,NDP-New Democratic Party,N,N,10
+35001,Ajax, S/R 1,SVR Group 1/RÉS Groupe 1,87,Hill,,Jeff,Green Party,N,N,3
+35001,Ajax, S/R 1,SVR Group 1/RÉS Groupe 1,87,Holland,,Mark,Liberal,N,Y,71
+35001,Ajax, S/R 1,SVR Group 1/RÉS Groupe 1,87,Kesic,,Bob,United Party,N,N,1
+35001,Ajax, S/R 2,SVR Group 2/RÉS Groupe 2,0,Alexander,,Chris,Conservative,Y,N,449
+35001,Ajax, S/R 2,SVR Group 2/RÉS Groupe 2,0,Brown,,Stephanie,NDP-New Democratic Party,N,N,123
+35001,Ajax, S/R 2,SVR Group 2/RÉS Groupe 2,0,Hill,,Jeff,Green Party,N,N,17
+35001,Ajax, S/R 2,SVR Group 2/RÉS Groupe 2,0,Holland,,Mark,Liberal,N,Y,787
+35001,Ajax, S/R 2,SVR Group 2/RÉS Groupe 2,0,Kesic,,Bob,United Party,N,N,2
